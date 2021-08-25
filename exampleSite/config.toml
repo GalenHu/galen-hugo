@@ -1,4 +1,4 @@
-baseURL = "http://galen-hugo.netlify.com"
+baseURL = "https://galen-hugo.netlify.app"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
