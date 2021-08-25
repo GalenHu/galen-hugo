@@ -20,7 +20,7 @@ URL = "contact"
 name = "Contact"
 weight = 4
 [params]
-address = ""
+address = "1602 rue du Burgundy"
 author = "Galen Hu"
 copyright = "Copyright &copy; 2021 a Theme by [Gethugothemes](https://gethugothemes.com)"
 description = ""
@@ -28,7 +28,7 @@ email = "galenhu@hotmail.com"
 google_analytics_id = ""
 home = "Home"
 logo = ""
-phone = "514 978 7468"
+phone = "15149787468"
 theme_color = "#41228e"
 [params.contact]
 enable = true
