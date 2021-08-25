@@ -39,9 +39,9 @@ education:
   - title: Computer Science (420.0A)
     year: 2018-2021
     academy: John Abbott College
-  - title: Secondary School Certificate
-    year: "1998"
-    academy: Cardiff School
+  - title: Software Engineer
+    year: 2021-2025
+    academy: Polytechnique de Montreal
 service:
   enable: true
   title: Services
