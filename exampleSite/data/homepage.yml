@@ -15,13 +15,13 @@ skill:
   - title: Web Design
     progress: 70%
     color: "#fdb157"
-  - title: Logo Design
-    progress: 60%
+  - title: Photo Manipulation
+    progress: 80%
     color: "#9473e6"
-  - title: After Effects
+  - title: Video Editing
     progress: 80%
     color: "#bdecf6"
-  - title: Web App
+  - title: Programming
     progress: 70%
     color: "#ffbcaa"
 experience:
