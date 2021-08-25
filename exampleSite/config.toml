@@ -20,21 +20,21 @@ URL = "contact"
 name = "Contact"
 weight = 4
 [params]
-address = "125/A, CA Commercial Area, California, USA"
-author = "Johnathan Smith"
+address = ""
+author = "Galen Hu"
 copyright = "Copyright &copy; 2021 a Theme by [Gethugothemes](https://gethugothemes.com)"
-description = "This is meta description"
-email = "steve.fruits@email.com"
+description = ""
+email = "galenhu@hotmail.com"
 google_analytics_id = ""
 home = "Home"
 logo = ""
-phone = "+880 2544 658 256"
+phone = "514 978 7468"
 theme_color = "#41228e"
 [params.contact]
 enable = true
 form_action = "#"
 [params.cookies]
-enable = true
+enable = false
 expire_days = 2
 [params.map]
 enable = true
