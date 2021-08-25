@@ -32,7 +32,7 @@ phone = "15149787468"
 theme_color = "#41228e"
 [params.contact]
 enable = true
-form_action = "#https://forms.un-static.com/forms/4d5a3100a71ff750a52bd1a13826fd23cd7624a0"
+form_action = "https://forms.un-static.com/forms/4d5a3100a71ff750a52bd1a13826fd23cd7624a0"
 [params.cookies]
 enable = false
 expire_days = 2
