@@ -3,6 +3,22 @@ languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
 title = "Galen Hu"
+[[menu.main]]
+URL = "about"
+name = "About"
+weight = 1
+[[menu.main]]
+URL = "blog"
+name = "Blog"
+weight = 2
+[[menu.main]]
+URL = "portfolio"
+name = "Portfolio"
+weight = 3
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = "4"
 [params]
 address = "1602 rue du Burgundy"
 author = "Galen Hu"
@@ -46,5 +62,5 @@ link = "plugins/google-map/map.js"
 enable = false
 preloader = "images/preloader.gif"
 [[params.social]]
-URL = "#https://www.instagram.com/galen_pics/"
+URL = "https://www.instagram.com/galen_pics/"
 icon = "ti-instagram"
