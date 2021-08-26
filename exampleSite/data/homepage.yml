@@ -2,7 +2,7 @@
 banner:
   title: Hi! I’m <br> Galen Hu<br> Software Engineer Student
 about:
-  enable: true
+  enable: false
   content: Hello friend!
   button:
     enable: true
