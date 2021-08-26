@@ -31,7 +31,7 @@ experience:
   enable: true
   title: Experience
   item:
-  - logo: images/prt_250x99_1487003860_2x.png
+  - logo: "/images/morganstanley.png"
     title: Analyst
     company: Morgan Stanley
     duration: Jan 2021 - May 2021
