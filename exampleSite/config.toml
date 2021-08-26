@@ -3,6 +3,9 @@ languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
 title = "Galen Hu"
+[[menu.main]]
+name = "Home"
+weight = 1
 [params]
 address = "1602 rue du Burgundy"
 author = "Galen Hu"
