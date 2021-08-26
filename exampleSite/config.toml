@@ -3,22 +3,6 @@ languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
 title = "Galen Hu"
-[[menu.main]]
-URL = "about"
-name = "About"
-weight = 1
-[[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 2
-[[menu.main]]
-URL = "portfolio"
-name = "Portfolio"
-weight = 3
-[[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 4
 [params]
 address = "1602 rue du Burgundy"
 author = "Galen Hu"
@@ -32,15 +16,15 @@ phone = "15149787468"
 theme_color = "#41228e"
 [params.contact]
 enable = true
-form_action = "#"
+form_action = "https://forms.un-static.com/forms/4d5a3100a71ff750a52bd1a13826fd23cd7624a0"
 [params.cookies]
 enable = false
 expire_days = 2
 [params.map]
 enable = true
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=&#038;types=(cities)&#038;libraries=places&#038;language=en"
-map_latitude = "51.5223477"
-map_longitude = "-0.1622023"
+map_latitude = "45.404871756669095"
+map_longitude = "-74.15996898813006"
 map_marker = "images/marker.png"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
@@ -62,14 +46,5 @@ link = "plugins/google-map/map.js"
 enable = false
 preloader = "images/preloader.gif"
 [[params.social]]
-URL = "#"
-icon = "ti-facebook"
-[[params.social]]
-URL = "#"
+URL = "https://www.instagram.com/galen_pics/"
 icon = "ti-instagram"
-[[params.social]]
-URL = "#"
-icon = "ti-dribbble"
-[[params.social]]
-URL = "#"
-icon = "ti-twitter-alt"

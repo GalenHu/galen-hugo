@@ -2,7 +2,7 @@
 banner:
   title: Hi! I’m <br> Galen Hu<br> Software Engineer Student
 about:
-  enable: true
+  enable: false
   content: Hello friend!
   button:
     enable: true
@@ -12,6 +12,9 @@ skill:
   enable: true
   title: Skills
   item:
+  - title: Photography
+    progress: "60"
+    color: "#CEE5D0"
   - title: Web Design
     progress: 70%
     color: "#fdb157"
@@ -28,7 +31,7 @@ experience:
   enable: true
   title: Experience
   item:
-  - logo: images/experience/icon-1.png
+  - logo: images/morganstanley.png
     title: Analyst
     company: Morgan Stanley
     duration: Jan 2021 - May 2021
