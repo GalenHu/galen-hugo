@@ -1,0 +1,50 @@
+baseURL = "https://galenhu.netlify.app"
+languageCode = "en-us"
+summaryLength = "10"
+theme = "kross-hugo"
+title = "Galen Hu"
+[params]
+address = "1602 rue du Burgundy"
+author = "Galen Hu"
+copyright = "Copyright &copy; 2021 a Theme by [Gethugothemes](https://gethugothemes.com)"
+description = ""
+email = "galenhu@hotmail.com"
+google_analytics_id = ""
+home = "Home"
+logo = ""
+phone = ""
+theme_color = "#41228e"
+[params.contact]
+enable = true
+form_action = "https://forms.un-static.com/forms/4d5a3100a71ff750a52bd1a13826fd23cd7624a0"
+[params.cookies]
+enable = false
+expire_days = 2
+[params.map]
+enable = true
+gmap_api = "https://maps.googleapis.com/maps/api/js?key=&#038;types=(cities)&#038;libraries=places&#038;language=en"
+map_latitude = "45.404871756669095"
+map_longitude = "-74.15996898813006"
+map_marker = "images/marker.png"
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/slick/slick.css"
+[[params.plugins.css]]
+link = "plugins/themify-icons/themify-icons.css"
+[[params.plugins.js]]
+link = "plugins/jQuery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/slick/slick.min.js"
+[[params.plugins.js]]
+link = "plugins/shuffle/shuffle.min.js"
+[[params.plugins.js]]
+link = "plugins/google-map/map.js"
+[params.preloader]
+enable = false
+preloader = "images/preloader.gif"
+[[params.social]]
+URL = "https://www.instagram.com/galen_pics/"
+icon = "ti-instagram"
